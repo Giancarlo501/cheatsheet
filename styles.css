@@ -1,0 +1,48 @@
+body {
+    background: #f1f0e7;
+    margin: 0;
+    padding: 0;
+ 
+    
+}
+
+h1 {
+    color: rgb(115, 66, 31);
+    text-align: center;
+    width: 100%;
+    font-size: 40px;
+}
+
+
+td {
+  border-top: 1px solid rgb(115, 66, 31);
+  font-family: "SomeType Mono" , sans-serif;
+  padding: 10px;
+  background-color: rgba(115, 66, 31, 0.24);;
+}
+
+thead {
+
+  background-color: rgba(115, 66, 31, 0.676);
+  font-size: 24px;
+  font-style: normal;
+  text-align: center;
+  
+
+}
+table {
+  margin: 0px auto;
+  width: 900px;
+  height: 300px;
+  border: 2px solid rgb(13, 5, 17);
+  font-size: 16px;
+  text-align: left;
+  
+}
+
+.property {
+  font-weight: bold;
+  font-family: "Kode Mono" , sans-serif ;
+  padding: 10px;
+  
+}
